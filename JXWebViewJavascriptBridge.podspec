@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "JXWebViewJavascriptBridge"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "A short description of JXWebViewJavascriptBridge."
 
 
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.platform     = :ios,'11.0'
 
-  s.author             = { "jifeng" => "jifeng@9xiu.com" }
+  s.authors      = { 'jifengs' => 'jf_feng@126.com' }
 
   s.source       = { :git => "https://github.com/jifengs/JXWebViewJavascriptBridge.git", :tag => s.version.to_s }
 
